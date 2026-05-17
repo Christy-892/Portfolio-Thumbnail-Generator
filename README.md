@@ -29,8 +29,17 @@ Options to alter the image size and position:<br>
 
 ---
 ## Deep Dive
+### Editor Utility Widget
+The Editor Utility Widget was setup with 2 custom Widget Blueprints. The left side is the "Editor Panel", and the right side is the "Preview Panel":<br>
+<img width="800" height="500" alt="Editor Utility Designer" src="https://github.com/user-attachments/assets/6390c433-d2c5-4056-8d5d-954acbfec4fc" />
+
+There is very little logic on these individual blueprints, with the majority of logic happening in the Editor Utility graph:<br>
+<img width="800" height="500" alt="Editor Utility Graph" src="https://github.com/user-attachments/assets/4b04b768-2344-4ee6-818e-1bd2f826e937" />
 
 
+### Drag/Drop Icon Control
+
+### Render Target
 ---
 ## Setup
 >[!NOTE]
