@@ -20,11 +20,12 @@ An investigation into Unreal Engine’s UMG (Unreal Motion Graphics), focused on
 ## Features
 ### Drag/Drop Icon Control
 The drag/drop icon control allows for an intuitive approach to selecting and placing the icons:<br>
-<img width="1280" height="720" alt="DragDropFeature" src="https://github.com/user-attachments/assets/4e20cb7f-1b82-4af8-970f-68177b8c14d4" /><br>
+<img width="1280" height="720" alt="Feature_DragDrop" src="https://github.com/user-attachments/assets/01fac6fe-b422-4298-8a9e-a035a551e48b" /><br>
+
 
 ### Main Image Control
 Options to alter the image size and position:<br>
-<img width="1280" height="720" alt="MainImageControl" src="https://github.com/user-attachments/assets/6467c600-b89b-4daf-8fca-44d54a1a1c90" /><br>
+<img width="1280" height="720" alt="Feature_MainImageControl" src="https://github.com/user-attachments/assets/7504da45-9ae3-496d-94c0-348e059f5628" /><br>
 
 ---
 ## Deep Dive
@@ -40,6 +41,7 @@ Options to alter the image size and position:<br>
 
 ## Resources
 - Great drag/drop inventory tutorial - https://www.youtube.com/watch?v=m39FbAA_u7s
+- Artstation Portfolio Piece - https://www.artstation.com/artwork/mAJgm9
 
 ## To Do
 - [x] Proof Of Concept
