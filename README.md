@@ -7,13 +7,15 @@ An investigation into Unreal Engine’s UMG (Unreal Motion Graphics), focused on
 1. Ensure you have added any images you wish to use in the "MainImage_Images" folder:
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/d5d30da2-ebfc-43cb-9af1-c68ed78f9067" /><br>
 
-2. In the **Content Browser**, navigate to the "EU_PortfolioThumbnail" **Editor Utility Widget** and _RMB>Run Editor Utility Widget_:
+2. Make sure your scene is in **unlit** mode
+
+3. In the **Content Browser**, navigate to the "EU_PortfolioThumbnail" **Editor Utility Widget** and _RMB>Run Editor Utility Widget_:
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6ac1830c-e5cc-477b-8891-4d8c1e9d659d" /><br>
 
-3. Make any alterations needed:<br>
+4. Make any alterations needed:<br>
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/dd1034d8-30c6-4a16-b1b4-4ae0e3b88433" /><br>
 
-4. Select "Save Image":<br>
+5. Select "Save Image":<br>
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/f515768b-fb38-423c-9045-475565713c7a" /><br>
 
 ---
